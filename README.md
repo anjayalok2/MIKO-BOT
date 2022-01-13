@@ -12,7 +12,7 @@
 </div>
 
 # Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rizxyu/Tes-bot1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anjayalok2/MIKO-BOT)
 # 📦 BuildPack
 * [`ffmpeg`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 * [`imagemagick`](https://github.com/rocketmobile/heroku-buildpack-imagemagick)
